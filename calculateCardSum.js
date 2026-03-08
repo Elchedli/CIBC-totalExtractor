@@ -1,3 +1,4 @@
+// Second code to work with
 const fs = require("fs");
 const path = require("path");
 
